@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="u_what_needed" table="x_58872_needit_needit" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -18,6 +17,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:39:58</sys_updated_on>
+            <u_suggested_priority/>
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -37,6 +37,7 @@
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-02-08 22:44:35</sys_updated_on>
+            <u_suggested_priority/>
             <value>your_choice1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -56,6 +57,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:39:58</sys_updated_on>
+            <u_suggested_priority/>
             <value>hr2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -75,6 +77,7 @@
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-02-08 22:44:35</sys_updated_on>
+            <u_suggested_priority/>
             <value>your_choice2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -94,6 +97,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:39:58</sys_updated_on>
+            <u_suggested_priority/>
             <value>facilities1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -113,6 +117,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:39:58</sys_updated_on>
+            <u_suggested_priority/>
             <value>facilities2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -132,6 +137,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:39:58</sys_updated_on>
+            <u_suggested_priority/>
             <value>legal1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -151,6 +157,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:39:58</sys_updated_on>
+            <u_suggested_priority/>
             <value>legal2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -170,6 +177,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-02-16 00:07:09</sys_updated_on>
+            <u_suggested_priority/>
             <value>other</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -179,7 +187,7 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-01-26 19:39:58</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>ee59a48c4f1bb200a9e6f4934210c732</sys_id>
+            <sys_id>5264f1a5db722300a1fed450cf9619ce</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
